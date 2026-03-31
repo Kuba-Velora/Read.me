@@ -44,5 +44,5 @@ Ich spezialisiere mich auf die Entwicklung von performanten Core-Systemen für F
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[DEIN_GITHUB_NAME]&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Kuba-Velora&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 </p>
